@@ -1,0 +1,14 @@
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/bin/Debug/net8.0/Assignment1
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/bin/Debug/net8.0/Assignment1.deps.json
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/bin/Debug/net8.0/Assignment1.runtimeconfig.json
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/bin/Debug/net8.0/Assignment1.dll
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/bin/Debug/net8.0/Assignment1.pdb
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.AssemblyInfoInputs.cache
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.AssemblyInfo.cs
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.dll
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/refint/Assignment1.dll
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.pdb
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/Assignment1.genruntimeconfig.cache
+/Users/eydisla/RiderProjects/Assignment1/Assignment1/obj/Debug/net8.0/ref/Assignment1.dll

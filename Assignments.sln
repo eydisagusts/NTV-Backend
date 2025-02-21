@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_1", "Challenge_1\Challenge_1.csproj", "{541CFAEC-89CE-43F4-A0B6-B62936F18B67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment_1", "Assignment_1", "{00419D09-F790-4ED9-AA85-B4F7339821C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge_1", "Challenge_1", "{3112D576-2D8E-4C3E-A5BA-C85EEEFD2980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_2", "Challenge_2\Challenge_2.csproj", "{5259199D-300B-4D65-A109-7759B1C575AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge_2", "Challenge_2", "{A3D77F80-4640-4A9F-B3C9-FBDE712F301E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541CFAEC-89CE-43F4-A0B6-B62936F18B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541CFAEC-89CE-43F4-A0B6-B62936F18B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541CFAEC-89CE-43F4-A0B6-B62936F18B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541CFAEC-89CE-43F4-A0B6-B62936F18B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5259199D-300B-4D65-A109-7759B1C575AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5259199D-300B-4D65-A109-7759B1C575AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5259199D-300B-4D65-A109-7759B1C575AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5259199D-300B-4D65-A109-7759B1C575AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3112D576-2D8E-4C3E-A5BA-C85EEEFD2980} = {00419D09-F790-4ED9-AA85-B4F7339821C9}
+		{541CFAEC-89CE-43F4-A0B6-B62936F18B67} = {3112D576-2D8E-4C3E-A5BA-C85EEEFD2980}
+		{A3D77F80-4640-4A9F-B3C9-FBDE712F301E} = {00419D09-F790-4ED9-AA85-B4F7339821C9}
+		{5259199D-300B-4D65-A109-7759B1C575AE} = {A3D77F80-4640-4A9F-B3C9-FBDE712F301E}
+	EndGlobalSection
+EndGlobal

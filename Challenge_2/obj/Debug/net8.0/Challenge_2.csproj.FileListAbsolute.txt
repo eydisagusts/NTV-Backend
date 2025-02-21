@@ -1,0 +1,14 @@
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/bin/Debug/net8.0/Challenge_2
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/bin/Debug/net8.0/Challenge_2.deps.json
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/bin/Debug/net8.0/Challenge_2.runtimeconfig.json
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/bin/Debug/net8.0/Challenge_2.dll
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/bin/Debug/net8.0/Challenge_2.pdb
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.AssemblyInfoInputs.cache
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.AssemblyInfo.cs
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.csproj.CoreCompileInputs.cache
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.dll
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/refint/Challenge_2.dll
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.pdb
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/Challenge_2.genruntimeconfig.cache
+/Users/eydisla/RiderProjects/Assignment1/Challenge_2/obj/Debug/net8.0/ref/Challenge_2.dll
