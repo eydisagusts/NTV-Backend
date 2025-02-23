@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/eydisla/.nuget/packages/": {}
+    "/Users/eydisagusts/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eydisla/RiderProjects/Assignment1/Challenge_1/Challenge_1.csproj",
+      "projectUniqueName": "/Users/eydisagusts/Desktop/NTV-Backend/Challenge_1/Challenge_1.csproj",
       "projectName": "Challenge_1",
-      "projectPath": "/Users/eydisla/RiderProjects/Assignment1/Challenge_1/Challenge_1.csproj",
-      "packagesPath": "/Users/eydisla/.nuget/packages/",
-      "outputPath": "/Users/eydisla/RiderProjects/Assignment1/Challenge_1/obj/",
+      "projectPath": "/Users/eydisagusts/Desktop/NTV-Backend/Challenge_1/Challenge_1.csproj",
+      "packagesPath": "/Users/eydisagusts/.nuget/packages/",
+      "outputPath": "/Users/eydisagusts/Desktop/NTV-Backend/Challenge_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/eydisla/.nuget/NuGet/NuGet.Config"
+        "/Users/eydisagusts/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/eydisla/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/eydisagusts/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

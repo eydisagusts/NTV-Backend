@@ -4,9 +4,13 @@ namespace Challenge_2
 {
     class WeatherData
     {
+        
+        
         private string _scale;
         private int _temperature;
         private int _humidity;
+        
+        
 
         public string Scale
         {
@@ -23,6 +27,8 @@ namespace Challenge_2
                 }
             }
         }
+        
+        
 
         public int Temperature
         {
@@ -35,8 +41,9 @@ namespace Challenge_2
             get { return _humidity; }
             set { _humidity = value; }
         }
-
-        // ✅ Convert Temperature from C ↔ F
+        
+        
+        
         public void Convert()
         {
             if (_scale == "C")
@@ -52,19 +59,22 @@ namespace Challenge_2
                 Console.WriteLine($"Temperature converted to {GetFormattedTemperature()}");
             }
         }
-
-        // ✅ Helper method to return properly formatted temperature
+        
+        
+        
         public string GetFormattedTemperature()
         {
             return _scale == "C" ? $"{_temperature}°c" : $"{_temperature}°F";
         }
+        
+        
+        
 
         static void Main(string[] args)
         {
             WeatherData data = new WeatherData();
             string? input = null;
-
-            // Ask for Scale (C/F)
+            
             while (true)
             {
                 Console.Write("Please choose scale (C/F): ");
@@ -82,8 +92,7 @@ namespace Challenge_2
             }
 
             Console.WriteLine($"You selected: {data.Scale}");
-
-            // Ask for Temperature
+            
             while (true)
             {
                 Console.Write($"Please enter temperature in {data.Scale}: ");
@@ -112,8 +121,7 @@ namespace Challenge_2
             }
 
             Console.WriteLine($"Temperature set to {data.GetFormattedTemperature()}");
-
-            // Ask for Humidity
+            
             while (true)
             {
                 Console.Write("Please enter humidity: ");
@@ -138,8 +146,7 @@ namespace Challenge_2
             }
 
             Console.WriteLine($"Humidity set to {data.Humidity}%");
-
-            // Ask if user wants to convert the temperature
+            
             Console.Write("\nDo you want to convert the temperature? (Y/N): ");
             input = Console.ReadLine()?.ToUpper();
 
@@ -147,8 +154,7 @@ namespace Challenge_2
             {
                 data.Convert();
             }
-
-            // Final display
+            
             Console.WriteLine("\nFinal Weather Data:");
             Console.WriteLine($"Temperature: {data.GetFormattedTemperature()}");
             Console.WriteLine($"Humidity: {data.Humidity}%");
