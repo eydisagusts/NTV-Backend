@@ -1,0 +1,15 @@
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/bin/Debug/net8.0/Challenge1
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/bin/Debug/net8.0/Challenge1.deps.json
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/bin/Debug/net8.0/Challenge1.runtimeconfig.json
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/bin/Debug/net8.0/Challenge1.dll
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/bin/Debug/net8.0/Challenge1.pdb
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.AssemblyInfoInputs.cache
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.AssemblyInfo.cs
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.sourcelink.json
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.dll
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/refint/Challenge1.dll
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.pdb
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/Challenge1.genruntimeconfig.cache
+/Users/eydisla/Desktop/NTV-Backend/Challenge1/obj/Debug/net8.0/ref/Challenge1.dll
